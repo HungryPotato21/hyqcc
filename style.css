@@ -12,6 +12,8 @@ body {
 .inner-cover {
   padding: 1.5rem;
   color: aliceblue;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .lead {
